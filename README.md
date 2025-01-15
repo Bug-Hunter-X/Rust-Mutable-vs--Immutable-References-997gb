@@ -1,0 +1,2 @@
+# Rust Mutable vs. Immutable References
+This example highlights the difference between mutable and immutable references in Rust.  It demonstrates how attempting to modify a value through an immutable reference leads to a compile-time error, illustrating Rust's borrowing rules. The `bug.rs` file contains the code with the error, and `bugSolution.rs` showcases the correct way to handle this scenario.
